@@ -1,2 +1,2 @@
-# alex-Images
-My image gallery
+# alex-images
+For my image gallery
